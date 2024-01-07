@@ -11,3 +11,7 @@
 1. Animation
 2. Collision
 3. AI
+
+### 작업물 실행 영상
+
+https://youtu.be/yygYlkAtF2I?si=7_rc7SQZZAtt55eV
